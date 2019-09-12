@@ -1,4 +1,4 @@
-#MALDIdata
+MALDI conversion script initially developed by izl.
 
 MALDIdata is a conversion codec for translation of imzML imaging mass spectrometry data files into HDF5 format.
 
